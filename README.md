@@ -10,3 +10,8 @@ Technical objectives:
 7. Create ability to run tests against stored code snippets.
 
 ...To be amended...
+
+
+Related objectives:
+1. Build a backend in Python rather than Ruby.
+2. Select and implement a Python back-end bootstrapper.
